@@ -2,7 +2,7 @@
 title:               psyStudy
 tagline:             'cs_study blog'
 description:         'cs_study blog 설명 추가하기'
-url:                 https://psystudy.github.io/
+url:                 https://psystudy.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
