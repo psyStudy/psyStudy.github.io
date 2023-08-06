@@ -1,0 +1,23 @@
+.MyHighlighterYellow{
+    background-color:#fff5b1
+}
+.MyHighlighterRed{
+    background-color:#FFE6E6
+}
+.MyHighlighterPurple{
+    background-color:#E6E6FA
+}
+.MyHighlighterBlue{
+    background-color:#C0FFFF
+}
+.MyHighlighterGreen{
+    background-color:#DCFFE4
+}
+
+table.MyTable{
+    text-align: center;
+}
+th.MyTable{
+    background-color: #FFE6E6;
+    font-weight: 600;
+}

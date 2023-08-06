@@ -1,8 +1,7 @@
 ---
 layout: post
-title: (저장) 프로시저 (Stored Procedure)
-excerpt : 소개글
-categories : DB
+title: DB_(저장) 프로시저 (Stored Procedure)
+category: DB
 ---
 
 # 1. 개념
@@ -18,7 +17,7 @@ categories : DB
 
 ### 함수와 차이점
 
-<table bordercolor="#EAD4B6">
+<table class="MyTable">
     <th>프로시저</th>
     <th>함수</th>
     <tr>

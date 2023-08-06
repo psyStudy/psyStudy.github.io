@@ -5,4 +5,14 @@ layout: default
 <div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
   {{ content }}
+  <ul>
+    {% for post in site.posts %}
+      {% if post.category ==  page.title %}
+        <li>
+          <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  
+  </ul>
 </div>
